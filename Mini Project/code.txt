@@ -1,0 +1,57 @@
+/* Circle */
+.circle{
+    border: solid 1px rgb(179, 98, 179);
+    border-radius: 50px;
+    box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+}
+.c1{
+    position: relative;
+}
+.c2{
+    position: relative;
+}
+.c3{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+
+.c4{
+    position: relative;
+}
+
+.c4{
+    position: relative;
+}
+
+.c4{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+.c4{
+    position: relative;
+}
+/* End */
+
+.head{
+    width: 100%;
+    height: 250px;
+    background-color: rgba(4, 4, 82, 0.726);
+}
+
+.nav{
+    background-image: linear-gradient(right purple pink);
+
+}

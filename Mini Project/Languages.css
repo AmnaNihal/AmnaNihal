@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body:before {
+    content:"";
+    position:fixed;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    z-index:-1; 
+    background:#910ddd;
+    background: linear-gradient(to right, #210466, rgb(54, 22, 90), #551e9c) ;
+}
