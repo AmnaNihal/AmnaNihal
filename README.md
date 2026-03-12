@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a multi user portfolio in MERN Stack  <br>👯 I'm looking to collaborate on AI/ML beginner-friendly projects <br>🤝 I'm looking for help in learning AI Fundamentals<br>🌱 I'm currently learning Machine learning fundamental, AI and Data Science and Product Management <br>💬 Ask me about MERN Stack Development and Frontend <br>⚡Fun fact :<br>⚡ I enjoy exploring fields outside of my major <br>⚡ I have interest in business and law
+🔭Currently working on a multi user portfolio in MERN Stack  <br>👯 I'm looking to collaborate on AI/ML beginner-friendly projects <br>🤝 Looking for help in learning AI Fundamentals<br>🌱 Learning Machine learning fundamental, AI and Data Science and Product Management <br>💬 Ask me about MERN Stack Development and Frontend <br>⚡Fun fact :<br>⚡ I enjoy exploring fields outside of my major <br>⚡Have interests in business and law
 
 
 ## 🌐 Socials:
